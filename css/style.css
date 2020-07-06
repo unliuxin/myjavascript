@@ -1,0 +1,27 @@
+.goods-price {
+    overflow: hidden;
+    display: block;
+	padding: 0 1rem;
+}
+.goods-price-order {
+    float: left;
+	color: #f85959;
+}
+.goods-price-bot {
+    float: right;
+}
+.goods-price div span {
+    color: #f85959;
+    font-weight: 700;
+}
+.goods-price-order span {
+    font-size: 2rem;
+    letter-spacing: 2px;
+}
+.goods-price-bot span {
+    font-weight: 400 !important;
+    letter-spacing: 1px;
+}
+.goods-price-bot img {
+    margin-right: .3rem;
+}
